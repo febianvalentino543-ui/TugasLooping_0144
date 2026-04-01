@@ -51,3 +51,4 @@ void outputFibonacci(){
 // Function menu
 void menu(){
     cout << "\n=== MENU ===\n";
+    cout << "1. Cek Bilangan Prima\n";
