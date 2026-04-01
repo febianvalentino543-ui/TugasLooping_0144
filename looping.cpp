@@ -35,3 +35,5 @@ void input(){
 
 // Prosedur output
 void outputPrima(){
+    if(isPrima(n))
+        cout << n << " adalah bilangan prima\n";
