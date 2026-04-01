@@ -37,3 +37,6 @@ void input(){
 void outputPrima(){
     if(isPrima(n))
         cout << n << " adalah bilangan prima\n";
+    else
+        cout << n << " bukan bilangan prima\n";
+}
