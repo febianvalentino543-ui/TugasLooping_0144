@@ -42,3 +42,5 @@ void outputPrima(){
 }
 
 void outputFibonacci(){
+    if(isFibonacci(n))
+        cout << n << " termasuk deret Fibonacci\n";
