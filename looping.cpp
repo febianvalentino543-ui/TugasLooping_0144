@@ -47,3 +47,7 @@ void outputFibonacci(){
     else
         cout << n << " bukan deret Fibonacci\n";
 }
+
+// Function menu
+void menu(){
+    cout << "\n=== MENU ===\n";
