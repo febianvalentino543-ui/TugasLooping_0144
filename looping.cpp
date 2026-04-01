@@ -33,3 +33,5 @@ void input(){
     cin >> n;
 }
 
+// Prosedur output
+void outputPrima(){
