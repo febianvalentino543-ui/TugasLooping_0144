@@ -15,3 +15,5 @@ bool isPrima(int n){
     return true;
 }
 
+// Function cek Fibonacci
+bool isFibonacci(int n){
